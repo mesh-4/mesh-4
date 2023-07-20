@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+21 yrs old. 4+ years software engineering experience. Previous work for Binance as Front-end developer.
+
+If thing has "normal" documentation or codebase. I can adapt quickly no matter what. Not limit to any language or stack.
+
+Currently looking for a job and building product.
+
+*I don't have interest at Crypto for now.*
+
 <!--
 **mesh-4/mesh-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
